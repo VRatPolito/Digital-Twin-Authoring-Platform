@@ -79,7 +79,7 @@ The following third-party software is used by the code and is **not** included i
 
 ## Forking Policies
 
-Please contact [Federico De Lorenzis](mailto:federico.delorenzis@polito.it) **BEFORE** forking the project.
+Please contact [Federico De Lorenzis](mailto:federico.delorenzis@polito.it) and [Lorenzo Valente](mailto:lorenzo.valente@polito.it) **BEFORE** forking the project.
 
 ## Citation
 
@@ -102,7 +102,7 @@ The platform design is detailed in:
 
 ## Contact
 
-Maintained by [Federico De Lorenzis](mailto:federico.delorenzis@polito.it) - feel free to contact me!
+Maintained by [Federico De Lorenzis](mailto:federico.delorenzis@polito.it) and [Lorenzo Valente](mailto:lorenzo.valente@polito.it) - feel free to contact us!
 
 ## License
 
