@@ -102,7 +102,7 @@ The platform design is detailed in:
 
 ## Contact
 
-Maintained by [Federico De Lorenzis](mailto:federico.delorenzis@polito.it) and [Lorenzo Valente](mailto:lorenzo.valente@polito.it) - feel free to contact us!
+Maintained by [Lab2 at Polito](mailto:lab2atpolito@outlook.it) - feel free to contact us!
 
 ## License
 
